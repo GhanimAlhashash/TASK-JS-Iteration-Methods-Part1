@@ -10,7 +10,7 @@ const greaterThanTwentyFive = (numbers) => {
 const divisibleByFive = (numbers) => {
   return numbers.filter((number) => number % 5 === 0);
 };
-
+//hi
 // 3) Using `squaredNumbers` function return a new array that contains each number squared.
 const squaredNumbers = (numbers) => {
   return numbers.map((number) => number * number);
