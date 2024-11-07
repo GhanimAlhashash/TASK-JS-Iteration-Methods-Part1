@@ -1,4 +1,4 @@
-// Array of numbers
+// Array of numbers hi
 const numbers = [10, 13, 20, 25, 38, 35, 40];
 
 // 1) Using `greaterThanTwentyFive` function that returns a new array containing numbers that are greater than or equal to 25.
